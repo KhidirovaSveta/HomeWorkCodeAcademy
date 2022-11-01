@@ -1,0 +1,15 @@
+C:\Users\Mursıt Cıcek\source\repos\homeTask-02\homeTask-02\bin\Debug\net6.0\homeTask-02.exe
+C:\Users\Mursıt Cıcek\source\repos\homeTask-02\homeTask-02\bin\Debug\net6.0\homeTask-02.deps.json
+C:\Users\Mursıt Cıcek\source\repos\homeTask-02\homeTask-02\bin\Debug\net6.0\homeTask-02.runtimeconfig.json
+C:\Users\Mursıt Cıcek\source\repos\homeTask-02\homeTask-02\bin\Debug\net6.0\homeTask-02.dll
+C:\Users\Mursıt Cıcek\source\repos\homeTask-02\homeTask-02\bin\Debug\net6.0\homeTask-02.pdb
+C:\Users\Mursıt Cıcek\source\repos\homeTask-02\homeTask-02\obj\Debug\net6.0\homeTask-02.csproj.AssemblyReference.cache
+C:\Users\Mursıt Cıcek\source\repos\homeTask-02\homeTask-02\obj\Debug\net6.0\homeTask-02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mursıt Cıcek\source\repos\homeTask-02\homeTask-02\obj\Debug\net6.0\homeTask-02.AssemblyInfoInputs.cache
+C:\Users\Mursıt Cıcek\source\repos\homeTask-02\homeTask-02\obj\Debug\net6.0\homeTask-02.AssemblyInfo.cs
+C:\Users\Mursıt Cıcek\source\repos\homeTask-02\homeTask-02\obj\Debug\net6.0\homeTask-02.csproj.CoreCompileInputs.cache
+C:\Users\Mursıt Cıcek\source\repos\homeTask-02\homeTask-02\obj\Debug\net6.0\homeTask-02.dll
+C:\Users\Mursıt Cıcek\source\repos\homeTask-02\homeTask-02\obj\Debug\net6.0\refint\homeTask-02.dll
+C:\Users\Mursıt Cıcek\source\repos\homeTask-02\homeTask-02\obj\Debug\net6.0\homeTask-02.pdb
+C:\Users\Mursıt Cıcek\source\repos\homeTask-02\homeTask-02\obj\Debug\net6.0\homeTask-02.genruntimeconfig.cache
+C:\Users\Mursıt Cıcek\source\repos\homeTask-02\homeTask-02\obj\Debug\net6.0\ref\homeTask-02.dll
