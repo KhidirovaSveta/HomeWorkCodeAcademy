@@ -1,12 +1,12 @@
 ﻿// See https://aka.ms/new-console-template for more information
 using System;
 
-int a = 1;
+int a = 0;
 bool sade = true;
 
 if (a == 0 || a == 1)
 {
-    Console.WriteLine("ne sade, ne de murekkeb deyil");
+    Console.WriteLine("ne sade, ne de murekkeb deyil", sade);
 }
 else
 {
