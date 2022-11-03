@@ -1,0 +1,23 @@
+/*
+let a = 5
+let b = 3
+
+let c
+c = a //c = 5
+a = b  //a = 3
+b = c   // b = 5
+
+console.log("a",a)
+console.log("b", b) */
+
+
+let numbers = [55, 1, 9, 25, 63]
+for (i=0; i<numbers.length; i++) {
+    for(let j=0; j<numbers.length; j++){
+        if(numbers[j]>numbers[j+1]) {
+            let temp = numbers[j]; //temp 29
+            numbers[j]=numbers[j+1]; //18
+            numbers[j+1]=temp; //29
+        }
+    }
+} console.log(numbers)
